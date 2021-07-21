@@ -2,8 +2,8 @@
 2048 is a game developed during a 3-hour school exam. 
 There are different states:
 
-![Start](https://photos.app.goo.gl/14d2e72ENCBHQp6o8)
+![Start](https://ibb.co/9m0X5L0)
 
-![In game](https://photos.app.goo.gl/zkC2hKUbELnUGMBf8)
+![In game](https://ibb.co/5Ff417Z)
 
-![End game](https://photos.app.goo.gl/qcvCwRGdpstXjTvt6)
+![End game](https://ibb.co/q5QDxV7)
